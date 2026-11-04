@@ -1,47 +1,68 @@
-<h1 align="center">¡Hola! 👋 Soy cperales</h1>
+<h1 align="center">Hi, I'm cperales</h1>
 
-<h3 align="center">Software Engineering Student | 42 Madrid</h3>
-
-<p align="center"> Aprendiendo a construir software desde cero, resolviendo problemas y explorando cómo funcionan los sistemas por dentro. </p>
-
-👨‍💻 About Me
-🎓 Estudiante del cursus de 42 en Fundación Telefónica (Madrid).
-💻 Principalmente trabajo con C y programación de bajo nivel.
-🧠 Interesado en algoritmos, estructuras de datos y desarrollo de software.
-🚀 Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.
-🔍 Actualmente trabajando en proyectos del cursus de 42.
-🛠️ Tech Stack
-Languages
-
-<p> <img src="https://skillicons.dev/icons?i=c,python,bash" /> </p>
-
-Tools & Systems
-
-<p> <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vim" /> </p>
-
-📚 Featured Projects
-Project	Language	Description
-libft	C	Implementación de funciones de la biblioteca estándar.
-ft_printf	C	Implementación propia de printf.
-get_next_line	C	Lectura de archivos línea por línea.
-fract-ol	C	Visualización de fractales.
-push_swap	C	Ordenación mediante operaciones limitadas.
-📊 GitHub Stats
-
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cperales-42&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cperales-42&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-
-## 🐍 Contribution Snake
+<h3 align="center">Software Engineering Student at 42 Madrid</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/cperales-42/cperales-42/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/cperales-42/cperales-42/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/cperales-42/cperales-42/output/github-snake.svg">
-  </picture>
+  Focused on software development, problem solving and understanding how systems work under the hood.
 </p>
 
+---
 
-<p align="center"> <i>Building, learning and improving one commit at a time.</i> </p>
+## About Me
+
+- Software Engineering student at 42 Madrid (Fundación Telefónica).
+- Mainly focused on C programming and low-level development.
+- Interested in algorithms, data structures and software architecture.
+- Enjoy building projects from scratch and solving complex problems.
+- Constantly learning and improving my programming skills.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,bash" alt="Languages" />
+</p>
+
+**Tools & Systems**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vim" alt="Tools and Systems" />
+</p>
+
+---
+
+## Featured Projects
+
+| Project | Description |
+|:---|:---|
+| **A-Maze-Ing** | Maze generation and pathfinding. |
+| **RAGAgainstTheMachine** | Retrieval-Augmented Generation (RAG). |
+| **Codexion** | 42 Madrid project. |
+| **Fly-In** | 42 Madrid project. |
+| **Biblioteca** | Library management project. |
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cperales-42&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cperales-42&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used languages" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cperales-42/cperales-42/output/github-snake.svg" alt="GitHub contribution snake" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building software.</i>
+</p>
