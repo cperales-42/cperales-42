@@ -46,11 +46,11 @@
 
 ---
 
-## GitHub Statistics
+<h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cperales-42&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cperales-42&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used languages" />
+  <img src="https://github-readme-stats-tau-gray-33.vercel.app/api?username=cperales-42&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats-tau-gray-33.vercel.app/api/top-langs/?username=cperales-42&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages" />
 </p>
 
 ---
