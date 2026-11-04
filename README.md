@@ -30,8 +30,18 @@ push_swap	C	Ordenación mediante operaciones limitadas.
 
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cperales-42&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cperales-42&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="github-snake.svg"> <img alt="GitHub contribution snake" src="github-snake.svg"> </picture> </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/cperales-42/cperales-42/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/cperales-42/cperales-42/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/cperales-42/cperales-42/output/github-snake.svg">
+  </picture>
+</p>
+
 
 <p align="center"> <i>Building, learning and improving one commit at a time.</i> </p>
